@@ -1,0 +1,2 @@
+python SearchBuckets.py <company name> <threads>
+python SearchBuckets.py uriel 3
