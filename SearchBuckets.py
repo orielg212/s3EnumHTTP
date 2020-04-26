@@ -100,29 +100,7 @@ for bucket in f:
 				time.sleep(2)
 			
 	
-#requests.get("http://Acxiom-devssss.s3.amazonaws.com/")
-# def send(bucket):
-	# bucket = bucket.replace('\n', '').replace('\r', '')
-		# #print url
-	# try:
-		# cmd = "aws s3 mv test.txt  s3://"+<bucket-name>
-		# os.system(cmd)
-	# except:
-		# pass
-		
-# The specified bucket does not exist
-# f = open("bucketnames.txt", "r")
-# company_name = 'Acxiom'
-# for bucket in f:	
-	# x_run = False
-	# print threading.active_count()
-	# while not x_run:
-		# if threading.active_count()<10:
-			# t = Thread(target = send, args=(bucket,))
-			# t.start()
-			# x_run = True
-		# else:
-			# time.sleep(2)
+
 			
 
 
